@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./estilo.css";
-
-export default class FormularioCadastro extends Component {
+class FormularioCadastro extends Component {
   render() {
     return (
       <form className="form-cadastro ">
@@ -16,9 +15,11 @@ export default class FormularioCadastro extends Component {
           className="form-cadastro_input"
         />
         <button className="form-cadastro_input form-cadastro_submit">
-          Criar nota
+          Criar Nota
         </button>
       </form>
     );
   }
 }
+
+export default FormularioCadastro;
