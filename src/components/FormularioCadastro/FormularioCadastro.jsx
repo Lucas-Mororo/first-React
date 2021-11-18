@@ -49,5 +49,5 @@ class FormularioCadastro extends Component {
     );
   }
 }
-
+//teste de git
 export default FormularioCadastro;
