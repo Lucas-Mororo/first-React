@@ -19,5 +19,6 @@ class ListaDeCategorias extends React.Component {
     );
   }
 }
+//adawdawdawdawdawdawd
 
 export default ListaDeCategorias;
